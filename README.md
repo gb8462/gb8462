@@ -1,6 +1,9 @@
 ## Worms8462
 
 **`Technoid (Developer/Gamer/Creator)`**
+
+An aspiring web and software developer with a growing passion for ethical hacking and all things tech. I enjoy diving into programming, exploring creative ways to solve problems, and building projects that combine functionality and flair. I’m constantly learning and experimenting to grow my skills and stay updated in this ever-evolving field. I'm excited to collaborate, share ideas, and create awesome things together!
+
 ### Known Languages and Tools
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="ArchLinux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
