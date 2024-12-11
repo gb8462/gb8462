@@ -27,4 +27,4 @@ An aspiring web and software developer with a growing passion for ethical hackin
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462)](https://github.com/gb8462/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462&show_icons=true)](https://github.com/gb8462/github-readme-stats&show_icons=true)
