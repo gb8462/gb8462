@@ -21,3 +21,4 @@ An aspiring web and software developer with a growing passion for ethical hackin
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462)](https://github.com/gb8462/github-readme-stats)
