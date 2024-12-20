@@ -31,4 +31,4 @@ An aspiring web and software developer with a growing passion for ethical hackin
 ---
 
 ### Activity Graph based on Commits
-[![Mr.RySes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&bg_color=00000000color=18cda9&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/terence-tarrega/github-readme-activity-graph)
+[![Mr.RySes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&bg_color=00000000color=010203&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/gb8462/github-readme-activity-graph)
