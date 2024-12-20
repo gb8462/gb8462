@@ -26,9 +26,9 @@ An aspiring web and software developer with a growing passion for ethical hackin
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8462&layout=donut&bg_color=00000000)](https://github.com/gb8462/github-readme-stats&bg_color=00000000) &nbsp; &nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462&show_icons=true&bg_color=00000000)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8462&layout=donut&bg_color=0a0a0a)](https://github.com/gb8462/github-readme-stats&bg_color=0a0a0a) &nbsp; &nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462&show_icons=true&bg_color=0a0a0a)  
 
 ---
 
 ### Activity Graph based on Commits
-[![Mr.RySes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&bg_color=00000000&color=1C78A2&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/gb8462/github-readme-activity-graph)
+[![Mr.RySes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&bg_color=0a0a0a&color=1C78A2&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/gb8462/github-readme-activity-graph)
