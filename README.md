@@ -6,7 +6,7 @@ An aspiring web and software developer with a growing passion for ethical hackin
 
 ---
 
-### Known Languages and Tools
+<h3>Known Languages and Tools</h3>
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="ArchLinux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
@@ -30,5 +30,6 @@ An aspiring web and software developer with a growing passion for ethical hackin
 
 ---
 
-### Activity Graph based on Commits
+<h3 align="center">Activity Graph based on Commits</h3>
+
 [![Mr.RySes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&bg_color=0a0a0a&color=1C78A2&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/gb8462/github-readme-activity-graph)
