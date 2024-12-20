@@ -21,15 +21,14 @@ An aspiring web and software developer with a growing passion for ethical hackin
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<br>
 
-###
+<br>
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8462&layout=donut&bg_color=00000000)](https://github.com/gb8462/github-readme-stats&bg_color=00000000) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462&show_icons=true&bg_color=00000000)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8462&layout=donut&bg_color=00000000)](https://github.com/gb8462/github-readme-stats&bg_color=00000000) &nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462&show_icons=true&bg_color=00000000)  
 
 ---
 
 ### Activity Graph based on Commits
-[![Mr.RySes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&bg_color=140335&color=18cda9&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/terence-tarrega/github-readme-activity-graph)
+[![Mr.RySes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&bg_color=00000000color=18cda9&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/terence-tarrega/github-readme-activity-graph)
