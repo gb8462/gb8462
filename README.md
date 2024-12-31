@@ -2,7 +2,7 @@
 
 **`Technoid (Developer/Gamer/Creator)`**
 
-I'm Worms8462, a passionate and aspiring web developer and software developer. I enjoy programming and continuously work to improve my skills. Check out my projects and contributions below!
+A beginner web developer and software developer with a passion for learning and improving my skills. I’m just starting my journey into the world of programming and enjoy exploring new technologies and building small projects to grow my knowledge.
 
 ---
 
