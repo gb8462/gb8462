@@ -29,6 +29,6 @@ A beginner web developer and software developer with a passion for learning and 
 
 ---
 
-<h2 align="center">Activity Graph based on Commits</h2>
+<h2 align="center">Activity Graph Based On Commits</h2>
 
 [![Mr.RySes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&bg_color=010014&color=1C78A2&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/gb8462/github-readme-activity-graph)
