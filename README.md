@@ -2,7 +2,7 @@
 
 **`Technoid (Developer/Gamer/Creator)`**
 
-A beginner web developer and software developer with a passion for learning and improving my skills. I’m just starting my journey into the world of programming and enjoy exploring new technologies and building small projects to grow my knowledge.
+A beginner web and software developer with a passion for learning and improving my skills. I’m just starting my journey into the world of programming and enjoy exploring new technologies and building small projects to grow my knowledge.
 
 ---
 
