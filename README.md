@@ -1,7 +1,5 @@
 ## Worms8462
 
-<img width="100%" height="400px" src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lhZjd0amd1eDYzbzh1a2l0aHVqdXVxejJuaTh1eHhpY3QxN2FzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NnMH7LDpZTPZS/giphy.gif'>
-
 **`Technoid (Developer/Gamer/Creator)`**
 
 A beginner web and software developer with a passion for learning and improving my skills. I’m just starting my journey into the world of programming and enjoy exploring new technologies and building small projects to grow my knowledge.
