@@ -35,4 +35,5 @@ A beginner web and software developer with a passion for learning and improving 
 
 
 <!--START_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/a2f6e923-a1e9-4c25-a204-b5188db0ae9f.svg)](https://wakatime.com/@a2f6e923-a1e9-4c25-a204-b5188db0ae9f)
 <!--END_SECTION:waka-->
