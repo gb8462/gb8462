@@ -36,4 +36,11 @@ A beginner web and software developer with a passion for learning and improving 
 [![wakatime](https://wakatime.com/badge/user/a2f6e923-a1e9-4c25-a204-b5188db0ae9f.svg)](https://wakatime.com/@a2f6e923-a1e9-4c25-a204-b5188db0ae9f)
 
 <!--START_SECTION:waka-->
+
+```txt
+Other   6 mins          ████████████████████░░░░░   79.92 %
+HTML    1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
+CSS     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+```
+
 <!--END_SECTION:waka-->
