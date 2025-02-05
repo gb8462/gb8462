@@ -38,9 +38,7 @@ A beginner web and software developer with a passion for learning and improving 
 <!--START_SECTION:waka-->
 
 ```txt
-Other   6 mins          ████████████████████░░░░░   79.92 %
-HTML    1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
-CSS     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
