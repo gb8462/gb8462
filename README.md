@@ -38,7 +38,9 @@ A beginner web and software developer with a passion for learning and improving 
 <!--START_SECTION:waka-->
 
 ```txt
-Python   13 mins         █████████████████████████   100.00 %
+Python   9 mins          ████████████████████████▒   96.77 %
+Other    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
