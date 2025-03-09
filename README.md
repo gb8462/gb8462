@@ -1,4 +1,4 @@
-## Carlos Ragudo
+## Worms8462
 
 **`Technoid (Developer/Gamer/Creator)`**
 
@@ -32,7 +32,7 @@ A beginner web and software developer with a passion for learning and improving 
 <h2 align="center">Activity Graph Based On Commits</h2>
 
 [![Mr.RySes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&bg_color=010014&color=1C78A2&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/gb8462/github-readme-activity-graph)
-
+[![committers.top badge](https://user-badge.committers.top/philippines/gb8462.svg)](https://user-badge.committers.top/philippines/gb8462)
 [![wakatime](https://wakatime.com/badge/user/a2f6e923-a1e9-4c25-a204-b5188db0ae9f.svg)](https://wakatime.com/@a2f6e923-a1e9-4c25-a204-b5188db0ae9f)
 
 <!--START_SECTION:waka-->
