@@ -38,11 +38,11 @@ A beginner web and software developer with a passion for learning and improving 
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         34 mins         █████████▓░░░░░░░░░░░░░░░   38.12 %
-CSS          27 mins         ███████▓░░░░░░░░░░░░░░░░░   30.51 %
-Python       21 mins         ██████░░░░░░░░░░░░░░░░░░░   23.91 %
-Markdown     6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Python       21 mins         █████████▓░░░░░░░░░░░░░░░   39.27 %
+HTML         16 mins         ███████▒░░░░░░░░░░░░░░░░░   28.93 %
+Bash         7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
+Markdown     6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+CSS          3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
 ```
 
 <!--END_SECTION:waka-->
