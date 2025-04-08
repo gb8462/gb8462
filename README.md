@@ -4,7 +4,7 @@
 
 <div align="center">
   
-**𓆩⟡𓆪`Technoid (Developer/Gamer/Creator)`𓆩⟡𓆪**
+**𓆩⟡𓆪`Technoid(Developer/Gamer/Creator)`𓆩⟡𓆪**
 
 </div>
 
