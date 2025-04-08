@@ -4,7 +4,7 @@
 
 <div align="center">
   
-**▒▒▒▒▒▒▒▒▒▒`Technoid (Developer/Gamer/Creator)`▒▒▒▒▒▒▒▒▒▒**
+**▒▒▒▒▒▒▒▒▒`Technoid (Developer/Gamer/Creator)`▒▒▒▒▒▒▒▒▒**
 
 </div>
 
