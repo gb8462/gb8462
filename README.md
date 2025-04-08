@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="center">Known Languages and Tools</h3>
+<h3>Known Languages and Tools</h3>
 
 <img align="left" alt="linux" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 <img align="left" alt="Arch" width="30px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
