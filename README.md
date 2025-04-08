@@ -1,10 +1,10 @@
-<h1 align="center">▰▰▰ Worms8462 ▰▰▰</h1>
+<h1 align="center">▰ Worms8462 ▰</h1>
 
 <img width="900" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBnNXBxNmZpZjh5b3UwMnNtcHJzdHEzMWJoNGt6cThwODB5bXg2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif">
 
 <div align="center">
   
-**▒▒▒▒▒`Technoid (Developer/Gamer/Creator)`▒▒▒▒▒**
+**▒`Technoid (Developer/Gamer/Creator)`▒**
 
 </div>
 
