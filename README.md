@@ -1,8 +1,7 @@
-## Worms8462
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU2em1iMzhmMms5ZDY5ZW9uMGQ2d3N1NmZpazczbWNsaWR0emh1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CWWzNDLvkoX4mIEawq/giphy.gif">
+# Worms8462
+<img width="700" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBnNXBxNmZpZjh5b3UwMnNtcHJzdHEzMWJoNGt6cThwODB5bXg2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif">
 
 **`Technoid (Developer/Gamer/Creator)`**
-
 
 ---
 
