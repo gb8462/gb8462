@@ -44,15 +44,15 @@
 
 <h3>Activities</h3>
 
-![Worms GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462&show_icons=true&theme=nord&hide_border=false)![Worms Github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gb8462&theme=nord_dark)
+![Worms GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462&show_icons=true&theme=apprentice&hide_border=true)![Worms Github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gb8462&theme=apprentice)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8462&layout=donut&theme=nord&hide_border=false)](https://github.com/gb8462/github-readme-stats&theme=nord)![Worms Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gb8462&layout=compact&langs_count=10&theme=nord)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8462&layout=donut&theme=apprentice&hide_border=true)](https://github.com/gb8462/github-readme-stats&theme=apprentice)![Worms Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gb8462&layout=compact&langs_count=10&theme=apprentice&hide_border=true)
 
 ---
 
 <h3>Activity Graph Based On Commits</h3>
 
-[![Mr.RySes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&theme=nord&area=true&hide_border=false)](https://github.com/gb8462/github-readme-activity-graph)
+[![Mr.RySes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&theme=nord&area=true&hide_border=true)](https://github.com/gb8462/github-readme-activity-graph)
 [![committers.top badge](https://user-badge.committers.top/philippines/gb8462.svg)](https://user-badge.committers.top/philippines/gb8462)
 [![wakatime](https://wakatime.com/badge/user/a2f6e923-a1e9-4c25-a204-b5188db0ae9f.svg)](https://wakatime.com/@a2f6e923-a1e9-4c25-a204-b5188db0ae9f)
 
