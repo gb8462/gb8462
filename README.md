@@ -5,7 +5,7 @@
 <div align="center">
   
 **𓆩⟡𓆪`Technoid(Developer/Gamer/Creator)`𓆩⟡𓆪**
-<p>I'm a first-year BSIT student with a strong passion for tech, constantly learning and building my skills in programming, web development, software engineering, and ethical hacking. I enjoy creating projects, exploring cybersecurity, and diving into anything that challenges my creativity and problem-solving. In my free time, I love experimenting with new tools, making content, and just geeking out over anything tech-related.</p>
+<p>A first-year BSIT student with a strong passion for tech, constantly learning and building my skills in programming, web development, software engineering, and ethical hacking. I enjoy creating projects, exploring cybersecurity, and diving into anything that challenges my creativity and problem-solving. In my free time, I love experimenting with new tools, making content, and just geeking out over anything tech-related.</p>
 
 </div>
 
