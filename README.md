@@ -44,9 +44,7 @@
 
 <h3>Activities</h3>
 
-![Worms GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462&show_icons=true&theme=apprentice&hide_border=true)![Worms Github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gb8462&theme=apprentice)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8462&layout=donut&theme=apprentice&hide_border=true)](https://github.com/gb8462/github-readme-stats)![Worms Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gb8462&layout=compact&langs_count=10&theme=apprentice&hide_border=true)
+![Worms GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462&show_icons=true&theme=apprentice&hide_border=true)![Worms Github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gb8462&theme=apprentice)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8462&layout=donut&theme=apprentice&hide_border=true)](https://github.com/gb8462/github-readme-stats)![Worms Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gb8462&layout=compact&langs_count=10&theme=apprentice&hide_border=true)
 
 ---
 
