@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<h3>Known Languages and Tools</h3>
+<h3>Known Languages And Tools</h3>
   <!-- Row 1 -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
@@ -38,12 +38,14 @@
 ---
 
 <div align="center">
-<h2>Activities</h2>
+
+<h3>Activities</h3>
   
 &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8462&layout=donut&bg_color=010014&hide_border=false)](https://github.com/gb8462/github-readme-stats&bg_color=010014) &nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462&show_icons=true&bg_color=010014&hide_border=false)  
 
 ---
-<h2>Activity Graph Based On Commits</h2>
+
+<h3>Activity Graph Based On Commits</h3>
 
 [![Mr.RySes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&bg_color=010014&color=1C78A2&line=00f583&point=00ff11&area=true&hide_border=false)](https://github.com/gb8462/github-readme-activity-graph)
 [![committers.top badge](https://user-badge.committers.top/philippines/gb8462.svg)](https://user-badge.committers.top/philippines/gb8462)
