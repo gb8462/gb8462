@@ -38,7 +38,8 @@
 ---
 
 <div align="center">
-
+<h2>Activities</h2>
+  
 &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8462&layout=donut&bg_color=010014&hide_border=false)](https://github.com/gb8462/github-readme-stats&bg_color=010014) &nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462&show_icons=true&bg_color=010014&hide_border=false)  
 
 ---
