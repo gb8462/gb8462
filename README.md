@@ -38,15 +38,10 @@
 ___
 <div align="center">
 
+<h2>Activity Graph Based On Commits</h2>
+
 &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8462&layout=donut&bg_color=010014)](https://github.com/gb8462/github-readme-stats&bg_color=010014) &nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462&show_icons=true&bg_color=010014)  
 
-</div>
-
-___
-
-<h2 align="center">Activity Graph Based On Commits</h2>
-<div align="center">
-  
 [![Mr.RySes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&bg_color=010014&color=1C78A2&line=00f583&point=00ff11&area=true&hide_border=true)](https://github.com/gb8462/github-readme-activity-graph)
 [![committers.top badge](https://user-badge.committers.top/philippines/gb8462.svg)](https://user-badge.committers.top/philippines/gb8462)
 [![wakatime](https://wakatime.com/badge/user/a2f6e923-a1e9-4c25-a204-b5188db0ae9f.svg)](https://wakatime.com/@a2f6e923-a1e9-4c25-a204-b5188db0ae9f)
