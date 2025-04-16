@@ -38,11 +38,11 @@
 
 ---
 
-<div align="center">
-
-<h3>Activities</h3>
+<h3 align="center">Activities</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8462&layout=donut&bg_color=010014&hide_border=false)](https://github.com/gb8462/github-readme-stats&bg_color=010014)&nbsp;![Worms Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gb8462&layout=compact&langs_count=10&bg_color=010014&color=1C78A2)&nbsp;![Worms GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462&show_icons=true&bg_color=010014&hide_border=false)
+
+<div align="center">
 
 ---
 
