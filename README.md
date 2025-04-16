@@ -11,10 +11,9 @@
 
 ---
 
-<h3>Known Languages and Tools</h3>
-
 <div align="center">
 
+<h3>Known Languages and Tools</h3>
   <!-- Row 1 -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
