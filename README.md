@@ -1,8 +1,9 @@
+<div align="center">
+
 <h1 align="center">𓆩⟡𓆪 Worms8462 𓆩⟡𓆪</h1>
 
 <img width="900" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBnNXBxNmZpZjh5b3UwMnNtcHJzdHEzMWJoNGt6cThwODB5bXg2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif">
 
-<div align="center">
   
 **𓆩⟡𓆪`Technoid(Developer/Gamer/Creator)`𓆩⟡𓆪**
 <p>A first-year BSIT student with a strong passion for tech, constantly learning and building my skills in programming, web development, software engineering, and ethical hacking. I enjoy creating projects, exploring cybersecurity, and diving into anything that challenges my creativity and problem-solving. In my free time, I love experimenting with new tools, making content, and just geeking out over anything tech-related.</p>
@@ -41,15 +42,11 @@
 
 <h3>Activities</h3>
 
----
-
 &nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8462&layout=donut&bg_color=010014&hide_border=false)](https://github.com/gb8462/github-readme-stats&bg_color=010014) &nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462&show_icons=true&bg_color=010014&hide_border=false)  
 
 ---
 
 <h3>Activity Graph Based On Commits</h3>
-
----
 
 [![Mr.RySes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&bg_color=010014&color=1C78A2&line=00f583&point=00ff11&area=true&hide_border=false)](https://github.com/gb8462/github-readme-activity-graph)
 [![committers.top badge](https://user-badge.committers.top/philippines/gb8462.svg)](https://user-badge.committers.top/philippines/gb8462)
