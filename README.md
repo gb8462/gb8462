@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<h3>Known Languages And Tools</h3>
+<h3>✧Known Languages And Tools✧</h3>
   <!-- Row 1 -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
@@ -42,13 +42,13 @@
 
 <div align="center">
 
-<h3>Activities</h3>
+<h3>✧Activities✧</h3>
 
 ![Worms GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462&show_icons=true&theme=apprentice&hide_border=true)![Worms Github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gb8462&theme=apprentice)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8462&layout=donut&theme=apprentice&hide_border=true)](https://github.com/gb8462/github-readme-stats)![Worms Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gb8462&layout=compact&langs_count=10&theme=apprentice&hide_border=true)
 
 ---
 
-<h3>Activity Graph Based On Commits</h3>
+<h3>✧Activity Graph Based On Commits✧</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&theme=react&bg_color=242424)](https://github.com/gb8462/github-readme-activity-graph)
 [![committers.top badge](https://user-badge.committers.top/philippines/gb8462.svg)](https://user-badge.committers.top/philippines/gb8462)
