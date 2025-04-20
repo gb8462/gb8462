@@ -54,6 +54,8 @@
 [![committers.top badge](https://user-badge.committers.top/philippines/gb8462.svg)](https://user-badge.committers.top/philippines/gb8462)
 [![wakatime](https://wakatime.com/badge/user/a2f6e923-a1e9-4c25-a204-b5188db0ae9f.svg)](https://wakatime.com/@a2f6e923-a1e9-4c25-a204-b5188db0ae9f)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gb8462&theme=nord)](https://github.com/gb8462/github-profile-trophy)
+
 </div>
 <!--START_SECTION:waka-->
 
