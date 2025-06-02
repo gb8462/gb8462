@@ -58,7 +58,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash       27 mins         █████████████████████▒░░░   84.82 %
+hyprlang   4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
 ```
 
 <!--END_SECTION:waka-->
