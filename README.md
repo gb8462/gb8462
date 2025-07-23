@@ -2,8 +2,6 @@
 
 <h1 align="center">𓆩⟡𓆪 Worms8462 𓆩⟡𓆪</h1>
 
-<img width="720" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBnNXBxNmZpZjh5b3UwMnNtcHJzdHEzMWJoNGt6cThwODB5bXg2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif">
-
   
 **𓆩⟡𓆪`Technoid(Developer/Gamer/Creator)`𓆩⟡𓆪**
 <p>A 2nd year BSIT student with a strong interest for tech, constantly learning and building my skills in programming, web development, software development, and ethical hacking. I enjoy creating projects, exploring cybersecurity, and diving into anything that challenges my creativity and problem-solving. In my free time, I love experimenting with new tools, making content, and just geeking out over anything tech-related.</p>
