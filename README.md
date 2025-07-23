@@ -65,7 +65,4 @@ Other        0 secs          ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gb8462&theme=nord)](https://github.com/gb8462/github-profile-trophy)
-
 </div>
