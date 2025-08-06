@@ -49,11 +49,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CSS          1 hr 1 min      ███████████████▓░░░░░░░░░   62.09 %
-Other        20 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
-JSON         16 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Vim Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
