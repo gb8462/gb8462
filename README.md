@@ -34,14 +34,7 @@
 <br>
 
 <div align="center">
-
-<h2>✧Activities✧</h2>
-
-![Worms GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462&show_icons=true&theme=apprentice&hide_border=true)
-![Worms Github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gb8462&theme=apprentice)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8462&layout=donut&theme=apprentice&hide_border=true)](https://github.com/gb8462/github-readme-stats)
-![Worms Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=gb8462&layout=compact&langs_count=10&theme=apprentice&hide_border=true)
-
+  
 <h2>✧Activity Graph Based On Commits✧</h2>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&theme=react&bg_color=242424)](https://github.com/gb8462/github-readme-activity-graph)
