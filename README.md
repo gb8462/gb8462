@@ -18,7 +18,11 @@
 <br>
 
 <div align="center">
-  
+
+<h2>Activities</h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gb8462&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gb8462&theme=github_dark&layout=donut&langs_count=6)
+
 <h2>✧Activity Graph Based On Commits✧</h2>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&theme=react&bg_color=242424)](https://github.com/gb8462/github-readme-activity-graph)
