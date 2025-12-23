@@ -4,8 +4,7 @@
 
   
 **𓆩⟡𓆪`Technoid(Developer/Gamer/Creator)`𓆩⟡𓆪**
-<p>A 2nd year BSIT student with a strong interest for tech, constantly learning and building my skills in programming, web development, software development, and ethical hacking. I enjoy creating projects, exploring cybersecurity, and diving into anything that challenges my creativity and problem-solving. In my free time, I love experimenting with new tools, making content, and just geeking out over anything tech-related.</p>
-
+<p>2nd year BSIT student into programming, web & software dev, and ethical hacking. I build projects, explore cybersecurity, and love learning anything that pushes my creativity and problem-solving. Always experimenting, always leveling up 🚀</p>
 </div>
 
 <div align="center">
