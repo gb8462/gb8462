@@ -26,11 +26,15 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&theme=react&bg_color=242424)](https://github.com/gb8462/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+
 ```txt
-CSS          3 hrs 40 mins   ████████████░░░░░░░░░░░░░   48.17 %
-HTML         2 hrs 54 mins   █████████▒░░░░░░░░░░░░░░░   37.97 %
-JavaScript   1 hr 3 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
+JavaScript   3 hrs 1 min     ██████████▒░░░░░░░░░░░░░░   41.38 %
+CSS          2 hrs 10 mins   ███████▒░░░░░░░░░░░░░░░░░   29.60 %
+HTML         1 hr 55 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
+
 <!--END_SECTION:waka-->
 [![committers.top badge](https://user-badge.committers.top/philippines/gb8462.svg)](https://user-badge.committers.top/philippines/gb8462)
 [![wakatime](https://wakatime.com/badge/user/a2f6e923-a1e9-4c25-a204-b5188db0ae9f.svg)](https://wakatime.com/@a2f6e923-a1e9-4c25-a204-b5188db0ae9f)
