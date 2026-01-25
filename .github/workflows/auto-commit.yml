@@ -1,9 +1,8 @@
-
 name: Auto Commit Bot
 
 on:
   schedule:
-    - cron: "0 17 * * *"
+    - cron: "0 17 * * *"   # 1:00 AM Philippine time
   workflow_dispatch:
 
 jobs:
@@ -23,5 +22,5 @@ jobs:
           git config user.name "gb8462"
           git config user.email "gb8462@users.noreply.github.com"
           git add .
-          git commit -m "daily notes"
+          git commit -m "daily notes" || echo "No changes"
           git push
