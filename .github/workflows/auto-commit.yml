@@ -3,8 +3,8 @@ name: Auto Commit Bot
 
 on:
   schedule:
-    - cron: "0 2 * * *"   # runs daily (UTC time)
-  workflow_dispatch:     # lets you run it manually too
+    - cron: "0 17 * * *"
+  workflow_dispatch:
 
 jobs:
   commit:
