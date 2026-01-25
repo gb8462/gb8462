@@ -15,7 +15,7 @@ jobs:
 
       - name: Make a change
         run: |
-          echo "- $(date): worked on personal projects" >> journal.md
+          echo "- $(TZ=Asia/Manila date): worked on personal projects" >> journal.md
 
       - name: Commit changes
         run: |
