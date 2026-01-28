@@ -1,8 +1,13 @@
 <div align="center">
 
-<h1 align="center">𓆩⟡𓆪 Worms8462 𓆩⟡𓆪</h1>
-  
+<h1 align="center">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=70&pause=1000&color=8C3DF7&background=FFFFFF00&center=true&vCenter=true&width=900&height=80&lines=Worms8462" alt="Typing SVG" />
+  </a>
+</h1>
 
+
+<h1 align="center">𓆩⟡𓆪 Worms8462 𓆩⟡𓆪</h1>
   
 **𓆩⟡𓆪`Technoid(Developer/Gamer/Creator)`𓆩⟡𓆪**
 <p>2nd year BSIT student into programming, web & software dev, and ethical hacking. I build projects, explore cybersecurity, and love learning anything that pushes my creativity and problem-solving. Always experimenting, always leveling up 🚀</p>
