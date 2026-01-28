@@ -42,7 +42,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 [![committers.top badge](https://user-badge.committers.top/philippines/gb8462.svg)](https://user-badge.committers.top/philippines/gb8462)
-[![wakatime](https://wakatime.com/badge/user/a2f6e923-a1e9-4c25-a204-b5188db0ae9f.svg)](https://wakatime.com/@a2f6e923-a1e9-4c25-a204-b5188db0ae9f)
+[![wakatime](https://wakatime.com/badge/user/a2f6e923-a1e9-4c25-a204-b5188db0ae9f.svg)](https://wakatime.com/@a2f6e923-a1e9-4c25-a204-b5188db0ae9f) <img src="https://visitor-badge.laobi.icu/badge?page_id=gb8462.gb8462&"/>
 ![gb8462-space-shooter](https://github.com/user-attachments/assets/fdef6a40-efd0-48ca-8c87-914a9ae182b8)
 
 </div>
