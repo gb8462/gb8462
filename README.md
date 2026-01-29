@@ -17,7 +17,11 @@
 
 <h3>✧Known Languages And Tools✧</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,firebase,windows,linux,arch,bash,git,stackoverflow,vscode,vim)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,firebase,windows,linux,arch,bash,git,stackoverflow,vscode,vim,figma" />
+  </a>
+</p>
 
 </div>
 
