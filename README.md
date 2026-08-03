@@ -10,7 +10,7 @@
 <h1 align="center"><hr>✦ ═══════════ 𓆩✧𓆪 Worms8462 𓆩✧𓆪 ═══════════ ✦<hr></h1>
 
 **𓆩⟡𓆪`Technoid(Developer/Gamer/Creator)`𓆩⟡𓆪**
-<p>2nd year BSIT student into programming, web & software dev, and ethical hacking. I build projects, explore cybersecurity, and love learning anything that pushes my creativity and problem-solving. Always experimenting, always leveling up 🚀</p>
+<p>3rd year BSIT student into programming, web & software dev, and ethical hacking. I build projects, explore cybersecurity, and love learning anything that pushes my creativity and problem-solving. Always experimenting, always leveling up 🚀</p>
 </div>
 
 <div align="center">
