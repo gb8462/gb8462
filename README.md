@@ -27,9 +27,6 @@
 
 <div align="center">
 
-<h2>✧Activity Graph Based On Commits✧</h2>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gb8462&theme=react&bg_color=0a1050)](https://github.com/gb8462/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
 
