@@ -27,6 +27,8 @@
 
 <div align="center">
 
+![GitHub contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg?user=gb8462&theme=ubuntu)
+
 
 <!--START_SECTION:waka-->
 
