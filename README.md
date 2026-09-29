@@ -40,8 +40,6 @@ No activity tracked
 [![committers.top badge](https://user-badge.committers.top/philippines/gb8462.svg)](https://user-badge.committers.top/philippines/gb8462)
 [![wakatime](https://wakatime.com/badge/user/a2f6e923-a1e9-4c25-a204-b5188db0ae9f.svg)](https://wakatime.com/@a2f6e923-a1e9-4c25-a204-b5188db0ae9f) <img src="https://visitor-badge.laobi.icu/badge?page_id=gb8462.gb8462&"/>
 
-![GitHub stats](https://github-readme-insight-terminal-asci.vercel.app/svg/streak?user=gb8462&theme=ubuntu)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=637EF8&height=130&section=footer">
 </p>
